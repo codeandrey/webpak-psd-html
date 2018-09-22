@@ -29,7 +29,7 @@ body {
   }
 
   .header{
-      background: url(/img/header.png);
+      background: url(../img/header.png);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -87,7 +87,7 @@ body {
     }
   }
   .bars {
-    background: url(img/bars.png) 0 0 no-repeat;
+    background: url(../img/bars.png) 0 0 no-repeat;
     height: 20px;
     width: 25px;
     position: absolute;
@@ -194,7 +194,7 @@ body {
     }
 
     &-count {
-      background: url(img/heart_bg.png) 15%;
+      background: url(../img/heart_bg.png) 15%;
       background-position: 50% 00px;
       background-repeat: no-repeat;
       background-size: 32%;
@@ -346,7 +346,7 @@ body {
   }
 
   .childs-bg {
-    background: url(img/children.png) 0 0 no-repeat;
+    background: url(../img/children.png) 0 0 no-repeat;
     background-size: contain;
     width: 250px;
     height: 200px;
@@ -403,7 +403,7 @@ body {
 
   .heart{
     position: absolute;
-    background: url(img/heart.png) 0 0 no-repeat;
+    background: url(../img/heart.png) 0 0 no-repeat;
     width: 100px;
     display: block;
     height: 100px;
